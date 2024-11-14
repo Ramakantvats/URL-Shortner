@@ -1,0 +1,5 @@
+Step 1 - Create index.js (firstly create server & use all the functionalities)
+Step 2 - create user.js in models folder ( to create the schema & model)
+Step 3 - Create user.js in routes folder ( to create routes)
+Step 4 - Create user.js in controllers folder (to define the controllers/routes)
+Step 5 - Create connection.js (to make connection of mongodb with node.js)
